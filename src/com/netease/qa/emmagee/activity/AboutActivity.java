@@ -14,6 +14,8 @@
  *  limitations under the License.
  *
  */
+ /*just test
+ */
 package com.netease.qa.emmagee.activity;
 
 import android.app.Activity;
